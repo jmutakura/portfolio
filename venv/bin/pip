@@ -1,4 +1,4 @@
-#!/student/jtm813/projects/portfolio/venv/bin/python
+#!/Users/jonathan/Desktop/portfolio/venv/bin/python
 # EASY-INSTALL-ENTRY-SCRIPT: 'pip==19.0.3','console_scripts','pip'
 __requires__ = 'pip==19.0.3'
 import re
